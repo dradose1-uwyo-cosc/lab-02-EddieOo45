@@ -1,5 +1,5 @@
-# [Name]
-## [Assignment #]
+# Stephen "Eddie" Owens
+## Lab 2
 ## [Submission date: MM/DD/YY]
 ## Worked with/sources 
 * example
